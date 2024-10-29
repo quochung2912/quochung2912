@@ -1,6 +1,5 @@
 
 👋 Xin chào! Tôi là Lâm Quốc Hưng, thành viên của Nhóm 2.
-
 Dự án đã và đang thực hiện
 
 Trang WEB bán điện thoại :
